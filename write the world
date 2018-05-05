@@ -1,0 +1,5 @@
+int i;
+int j;
+string v;
+v="hello";
+console.writeline("Welcome to the new world"+v);
